@@ -6,6 +6,7 @@ body {
     -ms-transition: background-color linear 5s;
     transition: background-color linear 5s;
     overflow-x: hidden;
+    overflow-y: auto;
 }
 
 /* Unicorn Peach Color Animation */
